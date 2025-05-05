@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshbs?tab=repositories](https://github.com/darshbs?tab=repositories)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about the **Blue & Yellow Snake**
 
 - 📫 How to reach me **saidarshan.balaji@gmail.com**
 
