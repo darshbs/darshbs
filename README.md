@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **SQL, PowerBI, Data Analytics.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/darshbs?tab=repositories](https://github.com/darshbs?tab=repositories)
+- 📊 Visualization Portfolio at [Tableau](https://public.tableau.com/app/profile/darshan.6292/vizzes)
+
+- 👨‍💻 All of my projects are available in [Github](https://github.com/darshbs?tab=repositories)
 
 - 💬 Ask me about the **Blue & Yellow Snake**
 
