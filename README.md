@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SQL, PowerBI, Data Analytics.**
 
-- 📊 Visualization Portfolio at [Tableau](https://public.tableau.com/app/profile/darshan.6292/vizzes)
+- 📈 Visualization Portfolio at [Tableau](https://public.tableau.com/app/profile/darshan.6292/vizzes)
 
 - 👨‍💻 All of my projects are available in [Github](https://github.com/darshbs?tab=repositories)
 
