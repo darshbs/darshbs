@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Data Scientist, pursuing Master of Science</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [!NotFunny](https://github.com/darshbs/iNotFunny)
+- 🔭 I’m currently working on building a Startup.
 
 - 🌱 I’m currently learning **SQL, PowerBI, Data Analytics.**
 
